@@ -1,0 +1,188 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 278}, {328, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "border_width" : 0,
+          "frame" : "{{129, 123}, {80, 32}}",
+          "title" : "전송",
+          "uuid" : "7794CF00-2E05-4F44-939B-092D1F430E9D",
+          "class" : "Button",
+          "corner_radius" : 0,
+          "font_bold" : false,
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 24}, {90, 33}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "3AE4B9BC-95FE-4A0F-8B6B-3CC03D37262A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "웹훅 주소 : ",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 65}, {90, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{94, 123}, {150, 32}}",
+          "uuid" : "A73FD336-E1D6-43C3-B526-AC5986C87BAA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "프로필 url : ",
+          "name" : "label2",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 105}, {90, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{94, 123}, {150, 32}}",
+          "uuid" : "34D507D6-133B-4A22-8F3B-BAE5AE88B269",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "닉네임 : ",
+          "name" : "label3",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{118, 25}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "action" : "",
+          "name" : "textfield1",
+          "frame" : "{{69, 123}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "86ABDE90-F700-4DB5-9BC9-445B72062416",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{118, 65}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "action" : "",
+          "name" : "textfield2",
+          "frame" : "{{69, 123}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "8504CE14-C4EA-4658-B87C-FA776D7D8325",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{118, 105}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "action" : "",
+          "name" : "textfield3",
+          "frame" : "{{69, 123}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "0219451D-E986-4DF4-A64C-4164F2E1B56E",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 145}, {90, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label4",
+          "frame" : "{{95, 159}, {150, 32}}",
+          "uuid" : "3CC3378B-309C-4C7F-9310-D2C877BBE6B0",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "내용 : ",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{118, 145}, {200, 125}}",
+        "class" : "TextField",
+        "attributes" : {
+          "action" : "",
+          "name" : "textfield4",
+          "frame" : "{{70, 159}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "FE6FAC26-8009-4AAB-A3FB-C515AE58673B",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {340, 330}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
